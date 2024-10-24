@@ -1,0 +1,18 @@
+/* Au cas où mais déjà présent dans le commonFreshlyRestaurant.css */
+* {
+    font-size: 18px;
+}
+
+#liAMenus {
+    background-color: #4c4343;
+}
+#aMenus {
+    color: white;
+}
+
+@media screen and (min-width: 780px) {
+    #liAMenus {
+        background-color: #4c4343;
+        padding: 0 .7em;
+    }
+}
